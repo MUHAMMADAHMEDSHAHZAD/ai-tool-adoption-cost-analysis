@@ -1,0 +1,36 @@
+
+AI TOOL ADOPTION & COST ANALYSIS - INSIGHTS REPORT
+=====================================================
+
+1. TOP PERFORMING DEPARTMENT
+   Sales department delivers the highest ROI (215.66%) with relatively
+   low total spend ($26,241). This suggests Sales team uses AI tools
+   most efficiently for revenue-generating tasks.
+
+2. UNDERPERFORMING DEPARTMENT
+   HR shows the lowest ROI (159.64%) despite moderate spending.
+   Recommendation: Review which AI tools HR uses and whether tasks
+   are well-suited for automation, or provide additional training.
+
+3. BEST AI TOOL BY ROI
+   Claude leads with 202% average ROI, followed by Midjourney (196%)
+   and GitHub Copilot (194%). ChatGPT has the lowest ROI (161%) despite
+   being widely used - suggesting cost may not match output value in
+   its current use cases.
+
+4. COST EFFICIENCY
+   Finance has the highest cost-per-employee ($42.53), while R&D has
+   the lowest ($33.39). High per-employee cost does not always
+   correlate with high ROI.
+
+5. ADOPTION TREND
+   AI adoption spend shows seasonal spikes (Sep-Oct 2025, July 2026)
+   and dips (Nov 2025-Feb 2026), likely tied to fiscal year budget
+   cycles. Recommendation: Investigate cause of dips and plan
+   consistent adoption strategy across quarters.
+
+6. KEY BUSINESS RECOMMENDATION
+   Reallocate a portion of underperforming departments' AI budget
+   (e.g., HR, Marketing) toward tools and practices used successfully
+   by Sales and Finance. Standardize on Claude and GitHub Copilot
+   where possible, given their consistently higher ROI.
