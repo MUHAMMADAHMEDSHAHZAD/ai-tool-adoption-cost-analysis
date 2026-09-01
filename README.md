@@ -50,17 +50,10 @@ Full write-up in [`insights_report.txt`](./insights_report.txt).
 ## 📈 Visualizations
 
 **Average ROI by Department**
-![Department ROI](charts/chart1_dept_roi.png)
-
-**Average ROI by AI Tool**
-![Tool ROI](charts/chart2_tool_roi.png)
-
-**Monthly AI Spend Trend**
-![Monthly Trend](charts/chart3_monthly_trend.png)
-
-**Cost vs Value Generated**
-![Cost vs Value](charts/chart4_cost_vs_value.png)
-
+![Department ROI](Charts/chart1_dept_roi.png)
+![Tool ROI](Charts/chart2_tool_roi.png)
+![Monthly Trend](Charts/chart3_monthly_trend.png)
+![Cost vs Value](Charts/chart4_cost_vs_value.png)
 ## 🚀 Future Work
 
 - Build an interactive Power BI dashboard on the same dataset
