@@ -45,7 +45,3 @@ Full write-up in [`insights_report.txt`](./insights_report.txt).
 A fully interactive dashboard was built on the same dataset, featuring KPI cards, a department slicer, and a top-5 ROI table alongside the core visualizations.
 ![Power BI Dashboard](dashboard_screenshot.png)
 Download the full interactive file: [`AI_Tool_Adoption_Cost_Analysis_Dashboard.pbix`](./AI_Tool_Adoption_Cost_Analysis_Dashboard.pbix)
-## 🚀 Future Work
-- Expand analysis with department-level forecasting
-- Add real-world survey data for validation
-- Publish dashboard to Power BI Service for live web access
